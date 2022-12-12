@@ -1,0 +1,4 @@
+# Assignment involved writing a Savitzky–Golay filter/Data Smoothing filter using LLS
+# Program is in C++ and uses Eigen
+# Program only completes LLS calculations, does not correctly apply them to filter data
+# Matlab file uses built in sgolayfilt function to filter and graph data
