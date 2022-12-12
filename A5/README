@@ -1,0 +1,6 @@
+# This assignment involved rewriting the computer function to play the 20 game (explained below)
+# using reinforcement Learning
+
+# 20 game
+# 2 people count to 20, going back and forth, adding 1 or 2 each time
+# The person to reach 20 wins
